@@ -23,7 +23,7 @@ ENV/
 Thumbs.db
 
 # ─── Project-specific ────────────────────────
-data/chunks.jsonl
-data/embeddings.npz
-data/chroma_db/
+#data/chunks.jsonl
+#data/embeddings.npz
+#data/chroma_db/
 pip-tmp/
