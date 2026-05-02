@@ -2,6 +2,7 @@
 
 A multi-turn Retrieval-Augmented Generation (RAG) chatbot for clinical research over a corpus of 38 cancer-specific reference documents. Built to help oncologists ask natural-language questions and receive grounded, source-cited answers.
 
+![Cancer Research Assistant - app screenshot](docs/app_screenshot.png)
 ## ✨ Features
 
 - **Grounded Q&A** — Every clinical claim cited with source PDF and page number
