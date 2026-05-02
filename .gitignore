@@ -1,0 +1,29 @@
+# ─── Secrets ─────────────────────────────────
+.env
+*.pem
+
+# ─── Python ──────────────────────────────────
+__pycache__/
+*.pyc
+
+# ─── Virtual environments ────────────────────
+.venv/
+venv/
+env/
+ENV/
+
+# ─── IDE ─────────────────────────────────────
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ─── OS ──────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ─── Project-specific ────────────────────────
+data/chunks.jsonl
+data/embeddings.npz
+data/chroma_db/
+pip-tmp/
